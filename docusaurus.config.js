@@ -11,7 +11,7 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://aarati-sangrah.justinclicks.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -20,6 +20,7 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'kaustubhk24', // Usually your GitHub org/user name.
   projectName: 'aarati-sangrah', // Usually your repo name.
+  trailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -42,8 +43,7 @@ const config = {
           routeBasePath: '/',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          
         },
        
         theme: {
@@ -52,7 +52,36 @@ const config = {
       }),
     ],
   ],
-
+  plugins: [
+    [
+      '@docusaurus/plugin-pwa',
+      {
+        debug: true,
+        offlineModeActivationStrategies: [
+          'appInstalled',
+          'standalone',
+          'queryString',
+        ],
+        pwaHead: [
+          {
+            tagName: 'link',
+            rel: 'icon',
+            href: '/img/docusaurus.png',
+          },
+          {
+            tagName: 'link',
+            rel: 'manifest',
+            href: '/manifest.json', // your PWA manifest
+          },
+          {
+            tagName: 'meta',
+            name: 'theme-color',
+            content: 'rgb(37, 194, 160)',
+          },
+        ],
+      },
+    ],
+  ],
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -72,14 +101,8 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
-            items: [
-              {
-
-                label: 'Tutorial',
-                to: '/docs/intro',
-              },
-            ],
+            
+           
           },
           {
             title: 'Community',
