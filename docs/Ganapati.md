@@ -3,9 +3,18 @@ sidebar_position: 2
 slug: /ganpati
 ---
 
+
 # श्री गणपती आरती
 
 ## सुखकर्ता दुखहर्ता वार्ता विघ्नाची
+
+
+
+<audio controls="controls" src="/audio/aarati/sukhkarta-dukhharta.mp3">
+    Your browser does not support the HTML5 Audio element.
+</audio>
+
+
 
 सुखकर्ता दुखहर्ता वार्ता विघ्नाची । <br />
 नुरवी पूर्वी प्रेम कृपा जयाची ।<br />
