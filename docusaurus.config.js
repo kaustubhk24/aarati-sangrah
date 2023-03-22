@@ -96,13 +96,14 @@ const config = {
           src: 'img/favicon.ico ',
         },
         items: [
-          
+          { href: "https://github.com/kaustubhk24/aarati-sangrah", label: "GitHub", position: "right" },
+
         ],
       },
       footer: {
         style: 'dark',
        
-        copyright: `Copyright © ${new Date().getFullYear()}  Built with Docusaurus.`,
+        copyright: `Proudly Hosted on GitHub Pages & Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,

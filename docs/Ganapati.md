@@ -1,9 +1,9 @@
 ---
-sidebar_position: 1
-slug: /
+sidebar_position: 2
+slug: /ganpati
 ---
 
-# गणपती आरती
+# श्री गणपती आरती
 
 ## सुखकर्ता दुखहर्ता वार्ता विघ्नाची
 
