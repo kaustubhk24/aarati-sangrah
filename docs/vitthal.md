@@ -51,9 +51,9 @@ slug: /vitthal
 केशवासी नामदेव भावे ओवाळिती ॥५॥
 
 ## येई हो विठ्ठले माझे माउली ये
-<audio controls="controls" src="/audio/aarati/yei-oh-vitthale.mp3">
+<!-- <audio controls="controls" src="/audio/aarati/yei-oh-vitthale.mp3">
     Your browser does not support the HTML5 Audio element.
-</audio>
+</audio> -->
 
 
 येई हो विठ्ठले माझे माउली ये
