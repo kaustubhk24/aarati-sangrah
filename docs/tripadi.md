@@ -3,9 +3,9 @@ sidebar_position: 17
 slug: /karuna-tripadi
 ---
 # करुणात्रिपदी
-<audio controls="controls" src="/audio/aarati/tripadi.mp3">
+<!-- <audio controls="controls" src="/audio/aarati/tripadi.mp3">
     Your browser does not support the HTML5 Audio element.
-</audio>
+</audio> -->
 
 
 
