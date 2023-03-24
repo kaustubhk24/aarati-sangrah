@@ -17,6 +17,8 @@ slug: /
 - [श्री हनुमान आरती](/hanuman)
 - [घालीन लोटांगण](/ghalin-lotangan)
 - [श्री नर्मदा अष्टकम](/narmada-ashtak)
+- [नानामहाराज आरती](/nana-maharaj)
+- [करुणात्रिपदी](/tripadi)
 - [पसायदान](/pasaydan)
 
 
