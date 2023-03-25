@@ -1,41 +1,20 @@
-# Website
+# आरती संग्रह
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+## Contribute
+While contributing please take care of the things below.
+*   Do not infringement anyone's copyrights.
+*   You can only edit markdown files which are inside docs folder.
+*   Please give sidebar_position according to alphabetical sequence.
+*   Use proper slug
+*   Currently we are accepting contributions in Marathi only.
+*   If you want to put any audio for any aarati, please put it in with proper name  `static/audio/aarati`
 
-### Installation
-
-```
-$ yarn
-```
-
-### Local Development
-
-```
-$ yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
+### How To Add Audio
+In markdown file please use syntax below
 
 ```
-$ yarn build
+<audio controls="controls" src="/audio/aarati/file_name.mp3">
+    Your browser does not support the HTML5 Audio element.
+</audio> 
 ```
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
