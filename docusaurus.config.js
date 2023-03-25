@@ -104,6 +104,12 @@ const config = {
         style: 'dark',
        
         copyright: `Proudly Hosted on GitHub Pages & Built with Docusaurus.`,
+        links: [
+          {
+            label: 'Copyright Issue',
+            href: 'https://github.com/kaustubhk24/aarati-sangrah/issues/new?assignees=kaustubhk24&labels=Copyrights+Issues&template=copyright-issue.md&title=',
+          },]
+
       },
       prism: {
         theme: lightCodeTheme,
