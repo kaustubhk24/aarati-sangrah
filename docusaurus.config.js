@@ -32,6 +32,7 @@ const config = {
     defaultLocale: 'en',
     locales: ['en'],
   },
+  
 
   presets: [
     [
@@ -52,8 +53,10 @@ const config = {
       }),
     ],
   ],
+  
   plugins: [
-    [
+   [
+      
       '@docusaurus/plugin-pwa',
       {
         debug: true,
@@ -116,6 +119,8 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
+    
 };
+
 
 module.exports = config;
