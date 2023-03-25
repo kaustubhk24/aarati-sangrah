@@ -18,7 +18,7 @@ slug: /
 - [घालीन लोटांगण](/ghalin-lotangan)
 - [श्री नर्मदा अष्टकम](/narmada-ashtak)
 - [नानामहाराज आरती](/nana-maharaj)
-- [करुणात्रिपदी](/tripadi)
+- [करुणात्रिपदी](/karuna-tripadi)
 - [पसायदान](/pasaydan)
 
 
