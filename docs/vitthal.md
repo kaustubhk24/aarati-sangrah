@@ -6,6 +6,10 @@ slug: /vitthal
 # श्री विठ्ठलाची आरती  
 ## युगे अठ्ठावीस विटेवरी उभा 
 
+<audio controls="controls" src="/audio/aarati/yuge-atthavis.mp3">
+    Your browser does not support the HTML5 Audio element.
+</audio> 
+
 युगे अठ्ठावीस विटेवरी उभा
 
 वामाङ्गी रखुमाईदिसे दिव्य शोभा ।

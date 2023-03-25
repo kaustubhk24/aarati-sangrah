@@ -4,6 +4,9 @@ slug: /devi
 ---
 # श्री देवीची आरती 
 ## दुर्गे दुर्घट भारी
+<audio controls="controls" src="/audio/aarati/durge-durghat.mp3">
+    Your browser does not support the HTML5 Audio element.
+</audio> 
 
 दुर्गे दुर्घट भारी तुजविण संसारी ।<br />
 अनाथनाथे अंबे करुणा विस्तारी ॥<br />

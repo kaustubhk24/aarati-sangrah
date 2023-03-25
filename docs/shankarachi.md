@@ -4,6 +4,9 @@ slug: /shankar
 ---
 #  श्री शंकराची आरती
 ## लवथवती विक्राळा ब्रह्मांडी माळा 
+<audio controls="controls" src="/audio/aarati/Lavthavti.mp3">
+    Your browser does not support the HTML5 Audio element.
+</audio> 
 
 लवथवती विक्राळा ब्रह्मांडी माळा ।<br />
 वीषें कंठ काळा त्रिनेत्रीं ज्वाळा ॥ <br />
