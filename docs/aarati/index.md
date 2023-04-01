@@ -1,10 +1,9 @@
 ---
 sidebar_position: 1
-slug: /
+slug: /aarati
 ---
 # आरती संग्रह
 
-![श्री गणपती ](/img/pwa/192X192.png "Shri Ganapati")
 
 - [श्री गणपती आरती](/ganpati)
 - [श्री देवीची आरती ](/devi)
