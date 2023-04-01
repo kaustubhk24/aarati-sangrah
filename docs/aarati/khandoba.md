@@ -1,5 +1,4 @@
 ---
-sidebar_position: 3
 slug: /khandoba
 ---
 # श्री खंडोबाची आरती 

@@ -1,5 +1,4 @@
 ---
-sidebar_position: 4
 slug: /shankar
 ---
 #  श्री शंकराची आरती

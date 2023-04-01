@@ -1,5 +1,4 @@
 ---
-sidebar_position: 14
 slug: /nana-maharaj
 ---
 # श्री नानामहाराज आरती

@@ -1,0 +1,12 @@
+{
+    "position": 2,
+    "label": "स्तोत्र संग्रह",
+    "collapsible": true,
+    "collapsed": false,
+    "className": "red",
+    "link": {
+      "type": "generated-index",
+      "title": "स्तोत्र संग्रह"
+    }
+   
+  }

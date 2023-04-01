@@ -1,5 +1,4 @@
 ---
-sidebar_position: 5
 slug: /datt
 ---
 # श्री दत्ताची आरती  

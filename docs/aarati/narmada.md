@@ -1,5 +1,4 @@
 ---
-sidebar_position: 8
 slug: /narmada
 ---
 # श्री नर्मदा माता आरती

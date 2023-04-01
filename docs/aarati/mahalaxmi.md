@@ -1,5 +1,4 @@
 ---
-sidebar_position: 9
 slug: /mahalaxmi
 ---
 # श्री महालक्ष्मीची आरती
