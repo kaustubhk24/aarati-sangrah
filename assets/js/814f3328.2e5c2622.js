@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaarati_sangrah=self.webpackChunkaarati_sangrah||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"demo","permalink":"/blog/demo"}]}')}}]);
