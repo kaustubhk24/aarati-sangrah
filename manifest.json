@@ -1,6 +1,6 @@
 {
-    "short_name": "आरती संग्रह",
-    "name": "आरती संग्रह",
+    "short_name": "आरती व स्तोत्र संग्रह",
+    "name": "आरती व स्तोत्र संग्रह",
     "icons": [
       {
         "src": "/img/pwa/512X512.png",
@@ -36,9 +36,9 @@
     ],
     "id": "/?source=pwa",
     "start_url": "/?source=pwa",
-    "background_color": "#3367D6",
+    "background_color": "#782975",
     "display": "standalone",
     "scope": "/",
-    "theme_color": "#3367D6"
+    "theme_color": "#782975"
    
   }
