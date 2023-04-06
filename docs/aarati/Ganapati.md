@@ -84,7 +84,7 @@ slug: /ganpati
 आधी वंदू तुज मोरया ॥
 
 ## बाप्पा मोरया रे, बाप्पा मोरया रे
-<span class='index-text'> bappa moraya re/span>
+<span class='index-text'> bappa moraya re</span>
 
 गणपती बाप्पा मोरया, मंगलमुर्ती मोरया ।<br />
 तूच सुखकर्ता तूच दुःखहर्ता ।<br />
