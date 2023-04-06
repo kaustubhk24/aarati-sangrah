@@ -36,6 +36,7 @@ const config = {
 
   presets: [
     [
+    
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
@@ -58,6 +59,13 @@ const config = {
     [ require.resolve('docusaurus-lunr-search'), {
       languages: ['en', 'de'] // language codes
     }],
+    [
+      '@docusaurus/plugin-google-gtag',
+      {
+        trackingID: 'G-BDZNJ51SEP',
+        anonymizeIP: true,
+      },
+    ],
    [
       
       '@docusaurus/plugin-pwa',
