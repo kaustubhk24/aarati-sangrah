@@ -84,3 +84,5 @@ slug: /shiv-tandav
 युक्तां लक्ष्मीं सदैव सुमुखिं प्रददाति शंभुः || 15 ||
 
 इति श्रीरावण- कृतम् शिव- ताण्डव- स्तोत्रम् सम्पूर्णम्
+
+<span class='index-text'> Shiv Tandav stotram </span>

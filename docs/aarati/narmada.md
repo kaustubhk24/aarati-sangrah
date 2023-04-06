@@ -37,3 +37,5 @@ slug: /narmada
 भजत शिवानंद स्वामी,जपत हरि मन वांछित फल पावें॥      <br />
 
 ॐ जय जगदानन्दी…॥
+
+<span class='index-text'> narmada aarati, om jay jagadanandi</span>

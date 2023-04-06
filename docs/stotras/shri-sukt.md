@@ -98,3 +98,6 @@ slug: /shri-sukta
 तन्नो लक्ष्मी प्रचोदयात।३१।
 
 ॐ शान्तिः शान्तिः शान्तिः।
+
+
+<span class='index-text'> shri suktam stotram </span>

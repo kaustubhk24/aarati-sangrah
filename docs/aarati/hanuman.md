@@ -24,3 +24,6 @@ slug: /hanuman
 
 जय देव जय देव जय हनुमंता ।<br />
 तुमचे नि प्रसादें न भीं कृतांता ॥ जय० ॥
+
+
+<span class='index-text'> hanuman aarati, satrane uddane</span>

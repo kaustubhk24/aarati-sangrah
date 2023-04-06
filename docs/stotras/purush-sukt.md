@@ -55,3 +55,5 @@ slug: /purush-sukt
 
 
 ॐ शांतिः ! शांतिः !! शांतिः !!! (यजुर्वेदः 31.1-16)
+
+<span class='index-text'> purushsukt stotram </span>

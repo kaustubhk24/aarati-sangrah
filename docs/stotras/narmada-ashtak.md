@@ -53,3 +53,5 @@ slug: /narmada-ashtak
 त्वदीय पाद पंकजम नमामि देवी नर्मदे।<br />
 नमामि देवी नर्मदे, नमामि देवी नर्मदे।<br />
 त्वदीय पाद पंकजम नमामि देवी नर्मदे।<br />
+
+<span class='index-text'> narmada ashtkam stotram </span>

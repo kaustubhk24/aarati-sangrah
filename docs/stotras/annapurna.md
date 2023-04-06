@@ -64,3 +64,5 @@ slug: /annapurna
 पिता देवो महेश्वरः | |<br />
 बान्धवाः शिवभक्ताश्च |<br />
 स्वदेशो भुवनत्रयम् || 12 ||
+
+<span class='index-text'> annapurna stotram </span>

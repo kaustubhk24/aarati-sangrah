@@ -75,3 +75,7 @@ slug: /vitthal
 येई हो विठ्ठले माझे माउली ये<br />
 येई हो विठ्ठले माझे माउली ये<br />
 येई हो विठ्ठले माझे माउली ये<br />
+
+
+
+<span class='index-text'> vitthal pandurang aarati, yuge atthavis ,yei o vitthale</span>

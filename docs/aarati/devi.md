@@ -76,3 +76,5 @@ slug: /devi
 सिंहारूढ करि सबल शश्त्रे ती घेउनी हो<br />
 शुंभनीशुंभादीक राक्षसा किती मारसी राणी हो<br />
 विप्रा रामदासा आश्रय दिधला तो चरणी हो || १० ||
+
+<span class='index-text'> devi aarati , durge durghat bhari</span>

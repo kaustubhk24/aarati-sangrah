@@ -55,6 +55,9 @@ const config = {
   ],
   
   plugins: [
+    [ require.resolve('docusaurus-lunr-search'), {
+      languages: ['en', 'de'] // language codes
+    }],
    [
       
       '@docusaurus/plugin-pwa',

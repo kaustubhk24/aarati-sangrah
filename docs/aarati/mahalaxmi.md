@@ -41,3 +41,6 @@ slug: /mahalaxmi
 मुक्तेश्वर नागर क्षीरसागरबाळी॥<br />
 
 जय देवी जय देवी...॥
+
+
+<span class='index-text'> mahalaxmi aarati, jay devi jay devi</span>

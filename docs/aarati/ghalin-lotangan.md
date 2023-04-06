@@ -52,3 +52,5 @@ slug: /ghalin-lotangan
 तन्नोदंती प्रचोदयात् ।<br />
 मंत्रपुष्पांजली समर्पयामि ।।<br />
 ।।गणपतिबाप्पा मोरया ।।
+
+<span class='index-text'> ghalin lotangan</span>

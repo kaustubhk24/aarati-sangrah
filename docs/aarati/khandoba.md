@@ -27,3 +27,5 @@ slug: /khandoba
 तो हा मल्लांतक अवतार झाला ॥<br />
 यालागीं आवडे भाव वर्णीला ।<br />
 रामी रामदासा जिवलग भेटला ॥ जय देव.॥ ३ ॥<br />
+
+<span class='index-text'> khandoba aarati, panchanan haivan</span>

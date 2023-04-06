@@ -113,3 +113,5 @@ slug: /ram-raksha
 इति श्रीबुधकौशिकविरचितं श्रीरामरक्षास्तोत्रं संपूर्णम् ॥ 
 
 ॥ श्री सीतारामचंद्रार्पणमस्तु ॥
+
+<span class='index-text'> Shri ram raksha stotram </span>

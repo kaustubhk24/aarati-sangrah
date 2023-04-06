@@ -30,3 +30,5 @@ slug: /shriram
 सोहंभावें तया पूजा उपचार ।<br />
 सहजांची आरती वाद्यांचा गजर ।<br />
 माधवदासा स्वामी आठवे ना विसर ॥ जय० ॥ ५ ॥
+
+<span class='index-text'> prabhu shri ram  aarati, uktat sadhuni</span>

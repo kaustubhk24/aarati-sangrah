@@ -33,3 +33,5 @@ slug: /datt
 हरपले मन झाले उन्मन ॥<br />
 मी तू पणाची झाली बोळवण ।<br />
 एका जनार्दनी श्रीदत्तध्यान ॥ ४ ॥
+
+<span class='index-text'> datta aarati , trigunatmak traimurti</span>

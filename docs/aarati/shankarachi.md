@@ -29,3 +29,5 @@ slug: /shankar
 पंचानन मनमोहन मुनिजनसुखकारी ॥<br />
 शतकोटीचें बीज वाचे उच्चारी ।<br />
 रघुकुळटिळक रामदासा अंतरीं ॥ जय देव जय देव० ॥ ४ ॥
+
+<span class='index-text'> shankarachi, mahadevachi aarati, lavthavati vikrala</span>

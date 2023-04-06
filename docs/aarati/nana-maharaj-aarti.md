@@ -32,3 +32,5 @@ slug: /nana-maharaj
 आरती करो,नाना की करो !<br />
 गुरुवर की शांती सागर की !<br />
 आरती करो नाना की !! ३ !!<br />
+
+<span class='index-text'> nana maharaj aarati, aarati kro nana ki</span>
