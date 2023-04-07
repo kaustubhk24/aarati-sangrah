@@ -127,4 +127,3 @@ slug: /durga-saptshati-path-adhyay-13
 मणिमुकुट विचित्रालड्‌कृति: पद्‌ममाला
 
 भवतु भुवनमाता सततं श्री: श्रियै न: ॥१॥
-<span class='index-text'> Shri durga saptshati adhyay 13 </span>

@@ -142,4 +142,3 @@ slug: /durga-saptshati-path-adhyay-11
 एवम् ५५,
 एवमादित: ६३० ॥
 - श्री दुर्गा शाकंभरी भ्रामरी विजयते -
-<span class='index-text'> Shri durga saptshati adhyay 11 </span>

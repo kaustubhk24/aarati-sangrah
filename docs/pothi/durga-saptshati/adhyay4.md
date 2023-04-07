@@ -263,4 +263,3 @@ slug: /durga-saptshati-path-adhyay-4
 शक्रादिस्तुतिर्नाम चतुर्थोऽध्याय: ॥४॥
 
 उवाच ५, अर्धश्‍लाकौ २, श्‍लोका: ३५, एवम ४२, एवमादित: २५९ ॥
-<span class='index-text'> Shri durga saptshati adhyay 4 </span>

@@ -401,4 +401,3 @@ slug: /durga-saptshati-path-adhyay-5
 एवम् १२९. एव,मादित: ३८८ ॥
 
 - श्री ललितागौरी विजयते -
-<span class='index-text'> Shri durga saptshati adhyay 5 </span>

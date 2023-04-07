@@ -95,4 +95,3 @@ slug: /durga-saptshati-path-adhyay-9
 निशुम्भवधो नाम नवमोऽध्याय ॥९॥
 उवाच २, श्लोका: ३९, एवं ४१,
 एवमादित: ५४३ ॥
-<span class='index-text'> Shri durga saptshati adhyay 9</span>

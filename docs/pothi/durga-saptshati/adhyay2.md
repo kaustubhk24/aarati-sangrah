@@ -300,4 +300,3 @@ slug: /durga-saptshati-path-adhyay-2
 
 श्री चंडिका विजयते
 
-<span class='index-text'> Shri durga saptshati adhyay 2 </span>

@@ -75,4 +75,3 @@ slug: /durga-saptshati-path-adhyay-10
 उवाच ४, अर्धश्लोक: १, श्लोका: २७,
 एवम् ३२, एवमादित: ५७५ ॥
  -श्री अम्बिकादेवी विजयते -
-<span class='index-text'> Shri durga saptshati adhyay 10 </span>

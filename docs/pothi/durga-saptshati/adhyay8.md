@@ -270,4 +270,3 @@ slug: /durga-saptshati-path-adhyay-8
 उवाच१, अर्धश्‍लोक: १,श्लोका: ६१,
 
 एवम् ६३, एवमादित: ५०२ ॥
-<span class='index-text'> Shri durga saptshati adhyay 8 </span>

@@ -183,4 +183,3 @@ slug: /durga-saptshati-path-adhyay-12
 एवम् ४१, एवमादित: ६७१ ॥
 
 -श्री वैभवलक्ष्मीर्विजयते -
-<span class='index-text'> Shri durga saptshati adhyay 12 </span>

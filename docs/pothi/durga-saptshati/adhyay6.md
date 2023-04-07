@@ -113,5 +113,3 @@ slug: /durga-saptshati-path-adhyay-6
 एवमारित: ॥४१२॥
 
 श्री अंबिका विजयते
-
-<span class='index-text'> Shri durga saptshati adhyay 6 </span>

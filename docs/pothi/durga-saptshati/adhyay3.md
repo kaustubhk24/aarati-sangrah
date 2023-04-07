@@ -194,4 +194,3 @@ slug: /durga-saptshati-path-adhyay-3
 
 एवमादित: २१७ ॥
 
-<span class='index-text'> Shri durga saptshati adhyay 3 </span>
