@@ -26,4 +26,4 @@ slug: /hanuman
 तुमचे नि प्रसादें न भीं कृतांता ॥ जय० ॥
 
 
-<span class='index-text'> hanuman aarati, satrane uddane</span>
+<span class='index-text'> hanuman maruti aarati, satrane uddane</span>

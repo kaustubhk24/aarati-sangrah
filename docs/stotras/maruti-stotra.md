@@ -41,4 +41,4 @@ slug: /bhimrupi
 
 ॥ इति श्रीरामदासकृतं संकटनिरसनं मारुतिस्तोत्रं संपूर्णम् ।।
 
-<span class='index-text'> maruti stotram </span>
+<span class='index-text'> maruti hanuman stotram </span>
