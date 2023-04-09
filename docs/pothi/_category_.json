@@ -1,7 +1,7 @@
 {
     "label": "पोथी",
     "collapsible": true,
-    "collapsed": false,
+    "collapsed": true,
     "className": "red",
     "link": {
       "type": "generated-index",

@@ -2,7 +2,7 @@
     "position": 2,
     "label": "स्तोत्र संग्रह",
     "collapsible": true,
-    "collapsed": false,
+    "collapsed": true,
     "className": "red",
     "link": {
       "type": "generated-index",
