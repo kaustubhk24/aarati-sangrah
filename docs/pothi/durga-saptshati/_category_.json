@@ -1,7 +1,7 @@
 {
     "label": "श्री दुर्गा सप्तशती",
     "collapsible": true,
-    "collapsed": false,
+    "collapsed": true,
     "className": "red",
     "link": {
       "type": "generated-index",
