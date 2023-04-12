@@ -31,6 +31,13 @@ const config = {
   i18n: {
     defaultLocale: 'mr',
     locales: ['mr'],
+    localeConfigs: {
+      mr: {
+        label: 'देवनागरी',
+        direction: 'ltr',
+        htmlLang: 'mr-IN',
+        path: 'mr',
+      },},
   },
   
 
@@ -57,7 +64,7 @@ const config = {
   
   plugins: [
     [ require.resolve('docusaurus-lunr-search'), {
-      languages: ['en', 'de'] // language codes
+      languages: ['en'] // language codes
     }],
     [
       '@docusaurus/plugin-google-gtag',
@@ -99,6 +106,14 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      announcementBar: {
+        id: 'support_us',
+        content:
+          'If you want to contribute please <a target="_blank" href="https://github.com/kaustubhk24/sangrah"> visit here</a> ',
+        backgroundColor: 'aliceblue',
+        textColor: '#091E42',
+        isCloseable: true,
+      },
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
@@ -110,9 +125,12 @@ const config = {
           src: 'img/favicon.ico ',
         },
         items: [
+         { type: 'localeDropdown',
+          position: 'right',},
           { href: "https://github.com/kaustubhk24/aarati-sangrah", label: "GitHub", position: "right" },
 
         ],
+     
       },
       footer: {
         style: 'dark',
