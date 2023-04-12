@@ -9,12 +9,6 @@ slug: /ganpati
 ## सुखकर्ता दुखहर्ता वार्ता विघ्नाची
 
 
-
-<audio controls="controls" src="/audio/aarati/sukhkarta-dukhharta.mp3">
-    Your browser does not support the HTML5 Audio element.
-</audio>
-
-
 <span class='index-text'> ganapati aarati , sukhkrta dukhkarta</span>
 
 सुखकर्ता दुखहर्ता वार्ता विघ्नाची । <br />

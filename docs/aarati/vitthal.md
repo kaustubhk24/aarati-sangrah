@@ -5,9 +5,7 @@ slug: /vitthal
 # श्री विठ्ठलाची आरती  
 ## युगे अठ्ठावीस विटेवरी उभा 
 
-<audio controls="controls" src="/audio/aarati/yuge-atthavis.mp3">
-    Your browser does not support the HTML5 Audio element.
-</audio> 
+
 
 युगे अठ्ठावीस विटेवरी उभा<br />
 वामाङ्गी रखुमाईदिसे दिव्य शोभा ।<br />
@@ -37,10 +35,7 @@ slug: /vitthal
 दर्शन होळामात्रे तया होय मुक्ति<br />
 केशवासी नामदेव भावे ओवाळिती ॥५॥<br />
 ## येई हो विठ्ठले माझे माउली ये
- <audio controls="controls" src="/audio/aarati/yei-oh-vitthale.mp3">
-    Your browser does not support the HTML5 Audio element.
-</audio> 
-
+ 
 
 येई हो विठ्ठले माझे माउली ये<br />
 येई हो विठ्ठले माझे माउली ये<br />

@@ -3,9 +3,6 @@ slug: /khandoba
 ---
 # श्री खंडोबाची आरती 
 ## पंचानन हयवाहन सुरभूषितनीळा 
-<audio controls="controls" src="/audio/aarati/Panchanan.mp3">
-    Your browser does not support the HTML5 Audio element.
-</audio> 
 
 पंचानन हयवाहन सुरभूषितनीळा ।<br />
 खंडामंडित दंडित दानव अवलीळा ॥<br />

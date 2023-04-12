@@ -5,9 +5,6 @@ slug: /hanuman
 # श्री हनुमान आरती      
 ## सत्राणें उड्डाणें हुंकार वदनीं 
 
-<audio controls="controls" src="/audio/aarati/satrane.mp3">
-    Your browser does not support the HTML5 Audio element.
-</audio> 
 
 सत्राणें उड्डाणें हुंकार वदनीं ।<br />
 करि डळमळ भूमंडळ सिंधूजळ गगनीं ।<br />

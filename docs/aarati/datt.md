@@ -5,10 +5,6 @@ slug: /datt
 ## त्रिगुणात्मक त्रैमूर्ती दत्त हा जाणा
 
 
-<audio controls="controls" src="/audio/aarati/trigunatmak.mp3">
-    Your browser does not support the HTML5 Audio element.
-</audio> 
-
 त्रिगुणात्मक त्रैमूर्ती दत्त हा जाणा।<br />
 त्रिगुणी अवतार त्रैलोक्य राणा ।<br />
 नेती नेती शब्द न ये अनुमाना॥<br />
