@@ -19,7 +19,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'kaustubhk24', // Usually your GitHub org/user name.
-  projectName: 'aarati-sangrah', // Usually your repo name.
+  projectName: 'sangrah', // Usually your repo name.
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
@@ -97,7 +97,7 @@ const config = {
           {
             tagName: 'meta',
             name: 'theme-color',
-            content: 'rgb(37, 194, 160)',
+            content: '#bf43bb',
           },
         ],
       },
