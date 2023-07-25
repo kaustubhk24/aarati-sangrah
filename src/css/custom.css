@@ -20,7 +20,7 @@
 }
 @font-face {
   font-family: "mukta";
-  src: url('/static/fonts/Mukta-Regular.woff') format('woff');
+  src: url('/static/fonts/baloo.woff') format('woff');
 }
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
@@ -43,6 +43,9 @@
 }
 h1{
   color: #e86723;
+}
+body{
+  font-size: 22px;
 }
 .index-text{display: none;}
 .navbar__search-input{border-radius: 0px !important;color:white; }
