@@ -1,6 +1,7 @@
 import React from 'react';
 import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
+import { ProjDevCardsRow } from '../components/ProjDevCards';
 
 export default function Hello() {
   return (
@@ -12,19 +13,8 @@ export default function Hello() {
 
       
         <div className="container">
-
-        <Link className="button button--info" to="/category/आरती-संग्रह">
-        आरती संग्रह
-          </Link>&nbsp;&nbsp;
-          <Link className="button button--info" to="/category/स्तोत्र-संग्रह">
-          स्तोत्र संग्रह
-          </Link><br />
-          <Link className="button button--info" to="/category/सूक्त-संग्रह">
-          सूक्त संग्रह
-          </Link>&nbsp;&nbsp;
-          <Link className="button button--info" to="/category/पोथी">
-          पोथी
-          </Link>          </div>
+        <ProjDevCardsRow/>
+        </div>
           </center>
 
     </Layout>
