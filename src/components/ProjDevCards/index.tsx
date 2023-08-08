@@ -82,7 +82,7 @@ function ProjDevCard({ name, image, url, description }: Props) {
           <Link to={url.page}>
           <div className="card__body">
           <h3 className={clsx('my_card_title')}>{name}</h3>
-          <p>{description}</p>
+          <p className={clsx('desc')}>{description}</p>
         </div>
           </Link>
         </div>

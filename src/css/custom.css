@@ -49,5 +49,10 @@ h1{
 .navbar__search-input{border-radius: 0px !important;color:white; }
 .my_card_title{
   margin-top: 20px;
-  color: #E86723;
+  color: white;
 }
+.card{
+  background-color: #e86823 ;
+    border-style:solid;
+}
+.desc{color:white;}
