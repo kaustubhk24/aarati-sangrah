@@ -109,4 +109,4 @@ slug: /aaigiri-nandini
 यदुचितमत्र भवत्युररीकुरुतादुरुतापमपाकुरुते<br />
 जय जय हे महिषासुरमर्दिनि रम्यकपर्दिनि शैलसुते ॥ २१ ॥<br />
 
-<span class='index-text'> aaigiri nandini </span>
+<span class='index-text'> aaigiri nandini , mahishasurmardini stotra</span>

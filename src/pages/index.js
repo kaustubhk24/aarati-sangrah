@@ -19,6 +19,9 @@ export default function Hello() {
           <Link className="button button--info" to="/category/स्तोत्र-संग्रह">
           स्तोत्र संग्रह
           </Link><br />
+          <Link className="button button--info" to="/category/सूक्त-संग्रह">
+          सूक्त संग्रह
+          </Link>&nbsp;&nbsp;
           <Link className="button button--info" to="/category/पोथी">
           पोथी
           </Link>          </div>

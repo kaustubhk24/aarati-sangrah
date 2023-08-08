@@ -1,0 +1,12 @@
+{
+    "position": 3,
+    "label": "सूक्त संग्रह",
+    "collapsible": true,
+    "collapsed": true,
+    "className": "red",
+    "link": {
+      "type": "generated-index",
+      "title": "सूक्त संग्रह"
+    }
+   
+  }
