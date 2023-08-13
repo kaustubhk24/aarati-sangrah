@@ -1,12 +1,12 @@
 {
-    "position": 5,
-    "label": "सूक्त संग्रह",
+    "position": 3,
+    "label": "अष्टक संग्रह",
     "collapsible": true,
     "collapsed": true,
     "className": "red",
     "link": {
       "type": "generated-index",
-      "title": "सूक्त संग्रह"
+      "title": "अष्टक संग्रह"
     }
    
   }

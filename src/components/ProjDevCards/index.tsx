@@ -16,6 +16,7 @@ const ProjDevCards = [
        'सर्व आरत्या'
     
   },
+
   {
     name: 'स्तोत्र संग्रह',
     image: '',
@@ -24,6 +25,36 @@ const ProjDevCards = [
     },
     description: 
        'सर्व स्तोत्र'
+    
+  },
+  {
+    name: 'अष्टक संग्रह',
+    image: '',
+    url: {
+      page: '/category/अष्टक-संग्रह',
+    },
+    description: 
+       'सर्व अष्टके'
+    
+  },
+  {
+    name: 'नामावली संग्रह',
+    image: '',
+    url: {
+      page: '/category/नामावली',
+    },
+    description: 
+       'नामावली'
+    
+  },
+  {
+    name: 'पूजा / व्रत',
+    image: '',
+    url: {
+      page: '/category/पूजा--व्रत',
+    },
+    description: 
+       'पूजा'
     
   },
   {
@@ -46,17 +77,17 @@ const ProjDevCards = [
        'पोथी'
     
   },
+ 
   {
-    name: 'पूजा / व्रत',
+    name: 'मंगलाष्टका संग्रह',
     image: '',
     url: {
-      page: '/category/पूजा--व्रत',
+      page: '/category/मंगलाष्टका',
     },
     description: 
-       'पूजा'
+       'मंगलाष्टका'
     
   },
- 
  
 
 
@@ -75,7 +106,7 @@ interface Props {
 
 function ProjDevCard({ name, image, url, description }: Props) {
   return (
-    <div className="col col--4 margin-bottom--lg">
+    <div className="col col--3 margin-bottom--lg">
       <div className={clsx('card card  cardContainer_node_modules-@docusaurus-theme-classic-lib-theme-DocCard-styles-module')}>
         <center>
         <div className={clsx('card__imge')}>

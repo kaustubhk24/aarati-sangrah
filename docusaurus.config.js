@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'आरती व स्तोत्र संग्रह',
+  title: 'संग्रह',
   tagline: '',
   favicon: 'img/favicon.ico',
 
@@ -119,9 +119,9 @@ const config = {
       navbar: {
         style:'primary',
 
-        title: 'आरती व स्तोत्र संग्रह',
+        title: 'संग्रह',
         logo: {
-          alt: 'आरती व स्तोत्र संग्रह',
+          alt: 'संग्रह',
           src: 'img/favicon.ico ',
         },
         items: [

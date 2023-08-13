@@ -1,12 +1,12 @@
 {
-    "position": 4,
-    "label": "पूजा / व्रत",
+    "position": 8,
+    "label": "मंगलाष्टका",
     "collapsible": true,
     "collapsed": true,
     "className": "red",
     "link": {
       "type": "generated-index",
-      "title": "पूजा / व्रत"
+      "title": "मंगलाष्टका"
     },
     "customProps": {
       "description": "This description can be used in the swizzled DocCard"
