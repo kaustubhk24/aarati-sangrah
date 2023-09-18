@@ -119,7 +119,7 @@ const config = {
           'श्री पार्थिव गणेश प्रतिष्ठापणापूजेसाठी   <a href="/parthiv-ganesh-pratishthapana"> येथे क्लिक करा </a> ',
         backgroundColor: 'aliceblue',
         textColor: '#091E42',
-        isCloseable: true,
+        isCloseable: false,
       },
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
