@@ -107,19 +107,14 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       announcementBar: {
-        // id: 'support_us',
-        // content:
-        //   'If you want to contribute please <a target="_blank" href="https://github.com/kaustubhk24/sangrah"> visit here</a> ',
-        // backgroundColor: 'aliceblue',
-        // textColor: '#091E42',
-        // isCloseable: true,
-
-        id: 'new_update',
+        id: 'support_us',
         content:
-          'श्री पार्थिव गणेश प्रतिष्ठापणापूजेसाठी   <a href="/parthiv-ganesh-pratishthapana"> येथे क्लिक करा </a> ',
+          'If you want to contribute please <a target="_blank" href="https://github.com/kaustubhk24/sangrah"> visit here</a> ',
         backgroundColor: 'aliceblue',
         textColor: '#091E42',
-        isCloseable: false,
+        isCloseable: true,
+
+       
       },
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',

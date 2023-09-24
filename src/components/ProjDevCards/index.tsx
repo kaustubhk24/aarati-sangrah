@@ -89,7 +89,26 @@ const ProjDevCards = [
     
   },
  
-
+  {
+    name: 'कथा संग्रह',
+    image: '',
+    url: {
+      page: '/category/कथा-संग्रह',
+    },
+    description: 
+       'कथा संग्रह'
+    
+  },
+  {
+    name: 'पाळणा संग्रह',
+    image: '',
+    url: {
+      page: '/category/पाळणा-संग्रह',
+    },
+    description: 
+       'पाळणा संग्रह'
+    
+  },
 
 
 ];

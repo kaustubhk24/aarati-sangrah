@@ -1,0 +1,12 @@
+{
+    "position": 10,
+    "label": "पाळणा संग्रह",
+    "collapsible": true,
+    "collapsed": true,
+    "className": "red",
+    "link": {
+      "type": "generated-index",
+      "title": "पाळणा संग्रह"
+    }
+   
+  }
