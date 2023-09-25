@@ -60,26 +60,30 @@
 /******rmlater****/
 /* Set the background image for the light mode */
 [data-theme='light']{
+ 
+  background-image: url("/img/bg.webp") !important; /* Adjust the path */
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+  background-attachment: fixed !important;
+  background-position: center !important;
+  .navbar-sidebar__brand{background-color: orange !important;}
+  .clean-btn.navbar-sidebar__back{color:black !important;}
+  .menu__link{color: black !important ;}
   .menu__link{color: black !important;}
-  .navbar-sidebar{ background-image: url("/img/bg.webp");}
-  background-image: url("/img/bg.webp"); /* Adjust the path */
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: center;
-  .navbar-sidebar__brand{background-color: orange ;}
-  .clean-btn.navbar-sidebar__back{color:black;}
+  .navbar-sidebar{ background-image: url("/img/bg.webp") !important;}
+
 }
 [data-theme='dark']{
-  .my_card_title{color: white;}
-  .navbar-sidebar{ background-image: url("/img/bg-dark.webp");}
-  .menu__link{color: white !important;}
+  
 
-  background-image: url("/img/bg-dark.webp"); /* Adjust the path */
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: center;
+  background-image: url("/img/bg-dark.webp" ) !important; /* Adjust the path */
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+  background-attachment: fixed !important;
+  background-position: center !important;
+  .my_card_title{color: white !important;}
+  .navbar-sidebar{ background-image: url("/img/bg-dark.webp") !important;}
+  .menu__link{color: white !important;}
 }
 
 
