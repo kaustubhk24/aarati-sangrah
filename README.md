@@ -1,4 +1,4 @@
-# आरती संग्रह
+# संपूर्ण संग्रह
 
 ## Contribute
 While contributing please take care of the things below.

@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'संग्रह',
+  title: 'संपूर्ण संग्रह',
   tagline: '',
   favicon: 'img/favicon.ico',
 
@@ -121,9 +121,9 @@ const config = {
       navbar: {
         style:'primary',
 
-        title: 'संग्रह',
+        title: 'संपूर्ण संग्रह',
         logo: {
-          alt: 'संग्रह',
+          alt: 'संपूर्ण संग्रह',
           src: 'img/favicon.ico ',
         },
         items: [
