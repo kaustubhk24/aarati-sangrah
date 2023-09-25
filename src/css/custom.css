@@ -28,6 +28,21 @@
   --ifm-color-primary-lighter: #32d8b4;
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+  
+
+  background-image: url("/img/bg-dark.webp") !important;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  .my_card_title {
+    color: white;
+  }
+
+  .navbar-sidebar {
+    background-image: url("/img/bg-dark.webp");
+  }
+
 }
 
 /* Button styles */
@@ -78,21 +93,15 @@
   }
 }
 
-[data-theme='dark'] {
-  background-image: url("/img/bg-dark.webp") !important;
-  background-size: cover !important;
-  background-repeat: no-repeat !important;
-  background-attachment: fixed !important;
-  background-position: center !important;
-  .my_card_title {
-    color: white !important;
-  }
-  .navbar-sidebar {
-    background-image: url("/img/bg-dark.webp") !important;
-  }
-}
 
 /* Paragraph font size */
 p {
   font-size: 18px !important;
 }
+
+.menu__link{
+  color: #4787ed !important;
+}
+.menu__link--active, .menu__link--active:hover{
+color: #b035e8 !important;}
+.navbar-sidebar__brand{background-color: orange !important;}
