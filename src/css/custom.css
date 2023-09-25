@@ -1,12 +1,6 @@
-/**
- * Any CSS included here will be global. The classic template
- * bundles Infima by default. Infima is a CSS framework designed to
- * work well for content-centric websites.
- */
-
-/* You can override the default Infima variables here. */
+/* Global variables */
 :root {
-  --ifm-color-primary:  orange ;
+  --ifm-color-primary: orange;
   --ifm-color-primary-dark: #29784c;
   --ifm-color-primary-darker: #277148;
   --ifm-color-primary-darkest: #205d3b;
@@ -16,13 +10,15 @@
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
   --ifm-font-family-base: "mukta";
-
 }
+
+/* Font face */
 @font-face {
   font-family: "mukta";
   src: url('/static/fonts/baloo.woff') format('woff');
 }
-/* For readability concerns, you should choose a lighter palette in dark mode. */
+
+/* Dark theme variables */
 [data-theme='dark'] {
   --ifm-color-primary: orange;
   --ifm-color-primary-dark: #21af90;
@@ -34,57 +30,69 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
-.button{
-  background-color: orange ;
+/* Button styles */
+.button {
+  background-color: orange;
   padding: 10px 30px 10px 30px;
   font-size: 16px;
-  color: white ;
+  color: white;
   margin-bottom: 20px;
 }
 
+/* Other styles */
+.index-text {
+  display: none;
+}
 
-.index-text{display: none;}
-.navbar__search-input{border-radius: 0px !important;color:white; }
-.my_card_title{
+.navbar__search-input {
+  border-radius: 0px !important;
+  color: white;
+}
+
+.my_card_title {
   margin-top: 20px;
   color: orange;
 }
 
-.card{
-    border: 2px solid orange !important;
-    border-style:solid;
-    background: none !important;
+.card {
+  border: 2px solid orange !important;
+  border-style: solid;
+  background: none !important;
 }
 
-
-/******rmlater****/
-/* Set the background image for the light mode */
-[data-theme='light']{
- 
-  background-image: url("/img/bg.webp") !important; /* Adjust the path */
+/* Light and dark theme-specific styles */
+[data-theme='light'] {
+  background-image: url("/img/bg.webp") !important;
   background-size: cover !important;
   background-repeat: no-repeat !important;
   background-attachment: fixed !important;
   background-position: center !important;
-  .navbar-sidebar__brand{background-color: orange !important;}
-  .clean-btn.navbar-sidebar__back{color:black !important;}
-  .menu__link{color: black !important ;}
-  .menu__link{color: black !important;}
-  .navbar-sidebar{ background-image: url("/img/bg.webp") !important;}
-
+  .navbar-sidebar__brand {
+    background-color: orange !important;
+  }
+  .clean-btn.navbar-sidebar__back {
+    color: black !important;
+  }
+  .navbar-sidebar {
+    background-image: url("/img/bg.webp") !important;
+  }
 }
-[data-theme='dark']{
-  
 
-  background-image: url("/img/bg-dark.webp" ) !important; /* Adjust the path */
+[data-theme='dark'] {
+  background-image: url("/img/bg-dark.webp") !important;
   background-size: cover !important;
   background-repeat: no-repeat !important;
   background-attachment: fixed !important;
   background-position: center !important;
-  .my_card_title{color: white !important;}
-  .navbar-sidebar{ background-image: url("/img/bg-dark.webp") !important;}
-  .menu__link{color: white !important;}
+  .my_card_title {
+    color: white !important;
+  }
+  .navbar-sidebar {
+    background-image: url("/img/bg-dark.webp") !important;
+  }
 }
 
-
-p{font-size: 18px !important;}
+/* Paragraph font size */
+p {
+  font-size: 18px !important;
+}
