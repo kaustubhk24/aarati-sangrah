@@ -6,7 +6,7 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary:  #e86723 ;
+  --ifm-color-primary:  orange ;
   --ifm-color-primary-dark: #29784c;
   --ifm-color-primary-darker: #277148;
   --ifm-color-primary-darkest: #205d3b;
@@ -24,7 +24,7 @@
 }
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  --ifm-color-primary: #e86723;
+  --ifm-color-primary: orange;
   --ifm-color-primary-dark: #21af90;
   --ifm-color-primary-darker: #1fa588;
   --ifm-color-primary-darkest: #1a8870;
@@ -35,7 +35,7 @@
 }
 
 .button{
-  background-color: #e86723 ;
+  background-color: #orange ;
   padding:10px 30px 10px 30px;
   font-size: 16px;
   color: white ;
@@ -47,11 +47,11 @@
 .navbar__search-input{border-radius: 0px !important;color:white; }
 .my_card_title{
   margin-top: 20px;
-  color: #e86823;
+  color: orange;
 }
 
 .card{
-    border: 2px solid #e86823 !important;
+    border: 2px solid orange !important;
     border-style:solid;
     background: none !important;
 }
@@ -61,15 +61,20 @@
 /* Set the background image for the light mode */
 [data-theme='light']{
   .menu__link{color: black !important;}
+  .navbar-sidebar{ background-image: url("/img/bg.webp");}
   background-image: url("/img/bg.webp"); /* Adjust the path */
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
+  .navbar-sidebar__brand{background-color: orange ;}
+  .clean-btn.navbar-sidebar__back{color:black;}
 }
 [data-theme='dark']{
   .my_card_title{color: white;}
+  .navbar-sidebar{ background-image: url("/img/bg-dark.webp");}
   .menu__link{color: white !important;}
+
   background-image: url("/img/bg-dark.webp"); /* Adjust the path */
   background-size: cover;
   background-repeat: no-repeat;
@@ -78,3 +83,4 @@
 }
 
 
+p{font-size: 18px !important;}
