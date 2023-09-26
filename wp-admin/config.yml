@@ -45,7 +45,6 @@ collections:
   slug: "{{slug}}"
   fields:
     - { name: slug, slug: slug, widget: string }
-    - { name: sidebar_position, slug: position, widget: number }
     - { name: body, label: Body, widget: markdown }
 
 
@@ -59,7 +58,6 @@ collections:
   slug: "{{slug}}"
   fields:
     - { name: slug, slug: slug, widget: string }
-    - { name: sidebar_position, slug: position, widget: number }
     - { name: body, label: Body, widget: markdown }
 
 - name: Ashtak
@@ -72,7 +70,6 @@ collections:
   slug: "{{slug}}"
   fields:
     - { name: slug, slug: slug, widget: string }
-    - { name: sidebar_position, slug: position, widget: number }
     - { name: body, label: Body, widget: markdown }
 
 - name: palana
@@ -85,7 +82,6 @@ collections:
   slug: "{{slug}}"
   fields:
     - { name: slug, slug: slug, widget: string }
-    - { name: sidebar_position, slug: position, widget: number }
     - { name: body, label: Body, widget: markdown }
 
 - name: katha
@@ -98,7 +94,6 @@ collections:
   slug: "{{slug}}"
   fields:
     - { name: slug, slug: slug, widget: string }
-    - { name: sidebar_position, slug: position, widget: number }
     - { name: body, label: Body, widget: markdown }
 
 - name: pooja
@@ -111,7 +106,6 @@ collections:
   slug: "{{slug}}"
   fields:
     - { name: slug, slug: slug, widget: string }
-    - { name: sidebar_position, slug: position, widget: number }
     - { name: body, label: Body, widget: markdown }
 
 - name: mangalastak
@@ -124,7 +118,6 @@ collections:
   slug: "{{slug}}"
   fields:
     - { name: slug, slug: slug, widget: string }
-    - { name: sidebar_position, slug: position, widget: number }
     - { name: body, label: Body, widget: markdown }
 
 - name: namavali
@@ -137,7 +130,6 @@ collections:
   slug: "{{slug}}"
   fields:
     - { name: slug, slug: slug, widget: string }
-    - { name: sidebar_position, slug: position, widget: number }
     - { name: body, label: Body, widget: markdown }
 
 - name: pothi
@@ -150,7 +142,6 @@ collections:
   slug: "{{slug}}"
   fields:
     - { name: slug, slug: slug, widget: string }
-    - { name: sidebar_position, slug: position, widget: number }
     - { name: body, label: Body, widget: markdown }
 
 - name: sukt
@@ -163,5 +154,4 @@ collections:
   slug: "{{slug}}"
   fields:
     - { name: slug, slug: slug, widget: string }
-    - { name: sidebar_position, slug: position, widget: number }
     - { name: body, label: Body, widget: markdown }
