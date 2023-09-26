@@ -1,6 +1,5 @@
 ---
 slug: /satyanarayan-aarati
-sidebar_position: 8
 ---
 # श्री सत्यनारायण महाराज आरती
 
