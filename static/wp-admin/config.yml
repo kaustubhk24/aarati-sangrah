@@ -4,8 +4,8 @@ backend:
   repo: kaustubhk24/sangrah
 
 # These lines should *not* be indented
-media_folder: "static/images/uploads" # Media files will be stored in the repo under static/images/uploads
-public_folder: "/images/uploads" # The src attribute for uploaded media will begin with /images/uploads
+media_folder: "static/img/" # Media files will be stored in the repo under static/images/uploads
+public_folder: "/img/" # The src attribute for uploaded media will begin with /images/uploads
 
 collections:
 - name: blog
@@ -33,4 +33,135 @@ collections:
   fields:
     - { name: title, label: Title, widget: string }
     - { name: sidebar_label, label: Label, widget: string }
+    - { name: body, label: Body, widget: markdown }
+
+- name: aarati
+  label: "Aarati"
+  folder: docs/aarati
+  identifier_field: slug
+  extension: md
+  widget: "list"
+  create: true
+  slug: "{{slug}}"
+  fields:
+    - { name: slug, slug: slug, widget: string }
+    - { name: sidebar_position, slug: position, widget: number }
+    - { name: body, label: Body, widget: markdown }
+
+
+- name: stotras-shlok
+  label: "Stotras/Shlok"
+  folder: docs/stotras-shlok
+  identifier_field: slug
+  extension: md
+  widget: "list"
+  create: true
+  slug: "{{slug}}"
+  fields:
+    - { name: slug, slug: slug, widget: string }
+    - { name: sidebar_position, slug: position, widget: number }
+    - { name: body, label: Body, widget: markdown }
+
+- name: Ashtak
+  label: "Ashtak"
+  folder: docs/Ashtak
+  identifier_field: slug
+  extension: md
+  widget: "list"
+  create: true
+  slug: "{{slug}}"
+  fields:
+    - { name: slug, slug: slug, widget: string }
+    - { name: sidebar_position, slug: position, widget: number }
+    - { name: body, label: Body, widget: markdown }
+
+- name: palana
+  label: "Palana"
+  folder: docs/palana
+  identifier_field: slug
+  extension: md
+  widget: "list"
+  create: true
+  slug: "{{slug}}"
+  fields:
+    - { name: slug, slug: slug, widget: string }
+    - { name: sidebar_position, slug: position, widget: number }
+    - { name: body, label: Body, widget: markdown }
+
+- name: katha
+  label: "Katha"
+  folder: docs/katha
+  identifier_field: slug
+  extension: md
+  widget: "list"
+  create: true
+  slug: "{{slug}}"
+  fields:
+    - { name: slug, slug: slug, widget: string }
+    - { name: sidebar_position, slug: position, widget: number }
+    - { name: body, label: Body, widget: markdown }
+
+- name: pooja
+  label: "Pooja"
+  folder: docs/pooja
+  identifier_field: slug
+  extension: md
+  widget: "list"
+  create: true
+  slug: "{{slug}}"
+  fields:
+    - { name: slug, slug: slug, widget: string }
+    - { name: sidebar_position, slug: position, widget: number }
+    - { name: body, label: Body, widget: markdown }
+
+- name: mangalastak
+  label: "Mangalashtak"
+  folder: docs/managalastak
+  identifier_field: slug
+  extension: md
+  widget: "list"
+  create: true
+  slug: "{{slug}}"
+  fields:
+    - { name: slug, slug: slug, widget: string }
+    - { name: sidebar_position, slug: position, widget: number }
+    - { name: body, label: Body, widget: markdown }
+
+- name: namavali
+  label: "Namavali"
+  folder: docs/namavali
+  identifier_field: slug
+  extension: md
+  widget: "list"
+  create: true
+  slug: "{{slug}}"
+  fields:
+    - { name: slug, slug: slug, widget: string }
+    - { name: sidebar_position, slug: position, widget: number }
+    - { name: body, label: Body, widget: markdown }
+
+- name: pothi
+  label: "Pothi"
+  folder: docs/pothi
+  identifier_field: slug
+  extension: md
+  widget: "list"
+  create: true
+  slug: "{{slug}}"
+  fields:
+    - { name: slug, slug: slug, widget: string }
+    - { name: sidebar_position, slug: position, widget: number }
+    - { name: body, label: Body, widget: markdown }
+
+- name: sukt
+  label: "Sukt"
+  folder: docs/Sukt
+  identifier_field: slug
+  extension: md
+  widget: "list"
+  create: true
+  slug: "{{slug}}"
+  fields:
+    - { name: slug, slug: slug, widget: string }
+    - { name: sidebar_position, slug: position, widget: number }
     - { name: body, label: Body, widget: markdown }
