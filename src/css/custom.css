@@ -105,3 +105,11 @@ p {
 .menu__link--active, .menu__link--active:hover{
 color: #b035e8 !important;}
 .navbar-sidebar__brand{background-color: orange !important;}
+
+
+body {
+  user-select: none;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+}
