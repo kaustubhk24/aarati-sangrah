@@ -126,31 +126,19 @@ const config = {
           alt: 'संपूर्ण संग्रह',
           src: 'img/favicon.ico ',
         },
-        items: [
-         { type: 'localeDropdown',
-          position: 'right',},
-          { href: "https://github.com/kaustubhk24/aarati-sangrah", label: "GitHub", position: "right" },
-
-        ],
+      
      
       },
-      footer: {
-        style: 'dark',
-       
-        copyright: `Proudly Hosted on GitHub Pages & Built with Docusaurus.`,
-        links: [
-          {
-            label: 'Copyright Issue',
-            href: 'https://github.com/kaustubhk24/aarati-sangrah/issues/new?assignees=kaustubhk24&labels=Copyrights+Issues&template=copyright-issue.md&title=',
-          },]
-
-      },
+   
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
 
-      
+      colorMode: {
+        defaultMode: 'light',
+        disableSwitch: true,
+      },
       
     }),
     
