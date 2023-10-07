@@ -11,7 +11,6 @@ export default function Hello() {
         <h1>संपूर्ण संग्रह</h1>
         <img src='/img/pwa/192X192.png'/>
 
-        <h5> श्री सत्यनारायण पूजेसाठी <a href="/category/श्री-सत्यनारायण-कथा"> येथे क्लिक करा </a></h5>
 
         <div className="container">
         <ProjDevCardsRow/>

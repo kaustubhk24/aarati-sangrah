@@ -38,6 +38,16 @@ const ProjDevCards = [
     
   },
   {
+    name: 'चालीसा संग्रह',
+    image: '',
+    url: {
+      page: 'category/चालीसा-संग्रह',
+    },
+    description: 
+       'चालीसा'
+    
+  },
+  {
     name: 'नामावली संग्रह',
     image: '',
     url: {
@@ -67,6 +77,7 @@ const ProjDevCards = [
        'सूक्त'
     
   },
+ 
   {
     name: 'पोथी संग्रह',
     image: '',

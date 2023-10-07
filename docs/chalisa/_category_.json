@@ -1,0 +1,12 @@
+{
+    "position": 4,
+    "label": "चालीसा संग्रह",
+    "collapsible": true,
+    "collapsed": true,
+    "className": "red",
+    "link": {
+      "type": "generated-index",
+      "title": "चालीसा संग्रह"
+    }
+   
+  }
