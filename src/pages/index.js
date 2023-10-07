@@ -11,6 +11,7 @@ export default function Hello() {
         <h1>संपूर्ण संग्रह</h1>
         <img src='/img/pwa/192X192.png'/>
 
+<h5>नवरात्र घटस्थापना शास्त्रोक्त पुजेसाठी <a href='ghat-sthapana-puja'>येथे क्लिक करा</a> </h5>
 
         <div className="container">
         <ProjDevCardsRow/>
