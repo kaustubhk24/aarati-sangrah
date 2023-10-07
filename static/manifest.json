@@ -10,7 +10,8 @@
       {
         "src": "/img/pwa/192X192.png",
         "type": "image/png",
-        "sizes": "192X192"
+        "sizes": "192X192",
+        "purpose": "maskable"
       },
       {
         "src": "/img/pwa/96X96.png",
