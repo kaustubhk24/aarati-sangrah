@@ -5,9 +5,7 @@ slug: /karuna-tripadi
 # करुणात्रिपदी
 ## करुणात्रिपदी
 
- <audio controls="controls" src="/audio/stotras/tripadi.mp3">
-    Your browser does not support the HTML5 Audio element.
-</audio> 
+
 
 
 (श्रीमद्वासुदेवानन्‍दसरस्वतीस्वामीविरचित)

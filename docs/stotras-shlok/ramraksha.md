@@ -7,10 +7,6 @@ slug: /ram-raksha
 
 ## श्री राम रक्षा स्तोत्र
 
-<audio controls="controls" src="/audio/stotras/ram-raksha.mp3">
-    Your browser does not support the HTML5 Audio element.
-</audio> 
-
 
 श्रीगणेशायनम: |<br />
 अस्य श्रीरामरक्षास्तोत्रमन्त्रस्य |<br />
