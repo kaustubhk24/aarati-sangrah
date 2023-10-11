@@ -100,7 +100,20 @@ const config = {
             content: '#bf43bb',
           },
         ],
+        injectManifestConfig: {
+          manifestTransforms: [
+            //...
+          ],
+          modifyURLPrefix: {
+            //...
+          },
+        
+          globIgnores: ['**/*.mp3', '**/*.ogg', '**/*.wav'], // Exclude audio file types
+
+          // ...
+        },
       },
+      
     ],
   ],
   themeConfig:
