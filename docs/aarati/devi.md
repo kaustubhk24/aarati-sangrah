@@ -1,4 +1,5 @@
 ---
+sidebar_position: 2
 slug: /devi
 ---
 # श्री देवीची आरती 

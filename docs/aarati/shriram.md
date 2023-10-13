@@ -1,4 +1,5 @@
 ---
+sidebar_position: 4
 slug: /shriram
 ---
 # श्री रामचंद्राची आरती
