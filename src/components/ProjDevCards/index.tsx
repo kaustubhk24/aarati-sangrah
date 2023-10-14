@@ -5,6 +5,16 @@ import clsx from 'clsx';
 import Link from '@docusaurus/Link';
 
 const ProjDevCards = [
+  {
+    name: 'आजचे पंचांग',
+    image: '',
+    url: {
+      page: 'https://dinank.datepanchang.in',
+    },
+    description: 
+       'सौजन्य - दाते पंचांग '
+    
+  },
   
   {
     name: 'आरती संग्रह',
