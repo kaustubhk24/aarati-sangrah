@@ -156,7 +156,7 @@ interface Props {
 
 function ProjDevCard({ name, image, url, description }: Props) {
   return (
-    <div className="col col--3 margin-bottom--lg">
+    <div className="col col--4 margin-bottom--lg">
       <div className={clsx('card card  cardContainer_node_modules-@docusaurus-theme-classic-lib-theme-DocCard-styles-module')}>
         <center>
         <div className={clsx('card__imge')}>
