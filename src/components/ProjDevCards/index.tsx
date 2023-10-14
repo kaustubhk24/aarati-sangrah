@@ -98,6 +98,16 @@ const ProjDevCards = [
        'पोथी'
     
   },
+  {
+    name: 'अभंग संग्रह',
+    image: '',
+    url: {
+      page: '/category/अभंग-संग्रह',
+    },
+    description: 
+       'संग्रह'
+    
+  },
  
   {
     name: 'मंगलाष्टका संग्रह',

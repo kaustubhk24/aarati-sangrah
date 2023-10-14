@@ -5,7 +5,7 @@ import { ProjDevCardsRow } from '../components/ProjDevCards';
 
 export default function Hello() {
   return (
-    <Layout title="संपूर्ण संग्रह" description="संपूर्ण संग्रह">
+    <Layout title="मुखपृष्ठ " description="मुखपृष्ठ ">
         <br/>
         <center>
         <h1>संपूर्ण संग्रह</h1>

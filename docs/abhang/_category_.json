@@ -1,0 +1,14 @@
+{
+    "position": 8,
+    "label": "अभंग संग्रह",
+    "collapsible": true,
+    "collapsed": true,
+    "className": "red",
+    "link": {
+      "type": "generated-index",
+      "title": "अभंग संग्रह"
+    },
+    "customProps": {
+      "description": "This description can be used in the swizzled DocCard"
+    }
+  }
