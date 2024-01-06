@@ -131,6 +131,7 @@ const config = {
       },
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
+      
       navbar: {
         style:'primary',
 
@@ -139,9 +140,12 @@ const config = {
           alt: 'संपूर्ण संग्रह',
           src: 'img/favicon.ico ',
         },
-      
+
+             
      
       },
+      
+      
    
       prism: {
         theme: lightCodeTheme,
