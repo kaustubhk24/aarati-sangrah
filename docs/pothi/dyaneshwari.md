@@ -5,7 +5,7 @@ slug: /dyaneshwari
 # ज्ञानेश्वरी
 
 
-- [Read Now](https://cdn2.justinclicks.com/Public%20CDN/public_books/dyaneshwari/)
+- [आता वाचा](https://cdn2.justinclicks.com/Public%20CDN/public_books/dyaneshwari/)
 
 
 
