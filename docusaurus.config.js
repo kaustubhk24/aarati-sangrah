@@ -11,7 +11,7 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://sangrah.justinclicks.com',
+  url: 'https://msangrah.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -122,7 +122,7 @@ const config = {
       announcementBar: {
         id: 'support_us',
         content:
-          'If you want to contribute please <a target="_blank" href="https://github.com/kaustubhk24/sangrah"> visit here</a> ',
+          'Please note that site is migrated to new address <a href="https://msangrah.com" target="_blank">https://msangrah.com</a> ',
         backgroundColor: 'aliceblue',
         textColor: '#091E42',
         isCloseable: true,
