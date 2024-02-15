@@ -66,6 +66,7 @@ const config = {
     [ require.resolve('docusaurus-lunr-search'), {
       languages: ['en'] // language codes
     }],
+    'docusaurus-plugin-google-adsense',
     [
       '@docusaurus/plugin-google-gtag',
       {
@@ -73,6 +74,8 @@ const config = {
         anonymizeIP: true,
       },
     ],
+ 
+
    [
       
       '@docusaurus/plugin-pwa',
@@ -129,6 +132,11 @@ const config = {
 
        
       },
+      googleAdsense: {
+        dataAdClient: 'ca-pub-7541510388779651',
+      },
+      
+      
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       
@@ -150,13 +158,15 @@ const config = {
       prism: {
         theme: lightCodeTheme,
       },
+    
 
       colorMode: {
         defaultMode: 'light',
         disableSwitch: true,
       },
-      
+
     }),
+    
     
 };
 
