@@ -178,7 +178,9 @@ function ProjDevCard({ name, image, url, description }: Props) {
           </div>
         </div>
       </div>
+      
     </div>
+    
   );
 }
 
@@ -188,6 +190,8 @@ export function ProjDevCardsRow(): JSX.Element {
       {ProjDevCards.map((special) => (
         <ProjDevCard key={special.name} {...special} />
       ))}
+      
     </div>
+    
   );
 }

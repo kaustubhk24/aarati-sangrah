@@ -58,7 +58,7 @@ slug: /ganapati-stotra
 
 <span class='index-text'> ganapati stotra , pranamya shirasa devam </span>
 
-# श्री गणपती अथर्वशीर्ष
+## श्री गणपती अथर्वशीर्ष
 
 
 ॐ नमस्ते गणपतये। 
