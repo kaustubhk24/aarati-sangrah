@@ -125,7 +125,7 @@ const config = {
       announcementBar: {
         id: 'support_us',
         content:
-          'Please note that site is migrated to new address <a href="https://msangrah.com" target="_blank">https://msangrah.com</a> ',
+          'Please note that site is migrated to new address <a href="https://sangrah.justinclicks.com" target="_blank">https://sangrah.justinclicks.com</a> ',
         backgroundColor: 'aliceblue',
         textColor: '#091E42',
         isCloseable: true,
