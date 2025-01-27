@@ -5,9 +5,8 @@ slug: /guru-charitra
 # गुरुचरित्र
 
 
-- [भाग  1](https://cdn2.justinclicks.com/Public%20CDN/public_books/gurucharitra/Part-1/)
-- [भाग  2](https://cdn2.justinclicks.com/Public%20CDN/public_books/gurucharitra/Part-2/)
-- [भाग  3](https://cdn2.justinclicks.com/Public%20CDN/public_books/gurucharitra/Part-3/)
+- [आता वाचा](https://cdn2.justinclicks.com/Public%20CDN/public_books/gurucharitra/)
+
 
 
 <span class='index-text'> shri gurucharitra </span>
